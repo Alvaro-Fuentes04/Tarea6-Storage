@@ -90,7 +90,7 @@ document.addEventListener("input", (event) => {
 });
 
 // Variables to track note dragging
-let cursor = { x: null, y: null }; /
+let cursor = { x: null, y: null };
 let note = {
   dom: null,
   x: null,
